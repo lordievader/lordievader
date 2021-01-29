@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on proactive threat detection using DNS measurements. On the side I try to squeeze time into Zabbix monitoring projects and Homeassistant related things.
+- 🌱 I’m currently learning PySpark for my Ph.D. work.
+- 👯 I’m looking to collaborate on Zabbix monitoring projects or Homeassistant projects.
+- 📫 How to reach me: Matrix is your best shot @olivier:oliviervandertoorn.nl
+- ⚡ Fun fact: DNS is difficult.
