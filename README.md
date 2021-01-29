@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Zabbix monitoring projects or Homeassistant projects.
 - 📫 How to reach me: Matrix is your best shot @olivier:oliviervandertoorn.nl
 - ⚡ Fun fact: DNS is difficult.
+
+Links to websites related to me:
+
+- [Personal blog][1]
+- [Ph.D. project][2]
+
+[1]: https://oliviervandertoorn.nl/
+[2]: https://www.tide-project.nl/
